@@ -1,3 +1,5 @@
+**声明：**本文档是本人按照riku在[github上的文档](http://gitcafe.com/riku/Markdown-Syntax-CN/blob/master/syntax.md)重新用写了一遍，以便自己学习Markdown语法之用。
+
 << [访问 Wow!Ubuntu](http://wowubuntu.com)
 
 **NOTE:** This is Simplelified Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to [Markdown: Syntax][eng-doc].
