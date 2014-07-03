@@ -41,9 +41,10 @@ Markdown语法说明（简体中文版）/（[点击查看快速入门](./basic.
 *	[感谢](#acknowledgement)
 *	[Markdown免费编辑器](#editor)
 
-***
+-----
 
 <h2 name="overview">概述</h2>
+
 <h3 name="philosophy">宗旨</h3>
 
 	
